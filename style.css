@@ -51,3 +51,4 @@ th { background: #f8fafc; font-weight: 600; }
   font-weight: 600;
 }
 .links a span { display: block; font-weight: 400; color: #64748b; font-size: 13px; }
+.biz { margin-top: 32px; padding-top: 16px; border-top: 1px solid #e2e8f0; color: #64748b; font-size: 12px; line-height: 1.7; overflow-wrap: anywhere; }
